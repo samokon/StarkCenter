@@ -1,4 +1,4 @@
 StarkCenter
 ===========
 
-Stark Digital Archive
+Stark Center Digital
